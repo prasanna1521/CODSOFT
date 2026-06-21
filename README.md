@@ -1,2 +1,32 @@
 # CODSOFT
-This repository contains the web development projects completed during my CodSoft Internship. The projects are built using HTML, CSS, and JavaScript, showcasing responsive design, user-friendly interfaces, and practical problem-solving skills through Portfolio, Landing Page, and Calculator applications.
+# 👋 CODSOFT Internship - Prasanna1521
+
+Hi, I am Prasanna. This repository contains my internship projects.
+
+---
+
+## 📁 Projects
+
+### 🧮 Calculator
+- Built using HTML, CSS, JavaScript
+- Performs basic arithmetic operations
+
+### 💼 Portfolio
+- Personal portfolio website
+- Showcases skills and projects
+
+---
+
+## 📄 Resume
+Resume file is included in this repository.
+
+---
+
+## 🛠 Tech Stack
+- HTML
+- CSS
+- JavaScript
+
+---
+
+⭐ Thank you for visiting my repository!
